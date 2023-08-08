@@ -1,1 +1,1 @@
-# Guess-My-Number
+# Guess-The-Number
